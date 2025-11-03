@@ -3,7 +3,7 @@
 }
 
 body {
-  background: #606060;
+  background: #b2b0b0;
   margin: 0;
   font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen;
   display: flex;
@@ -12,8 +12,9 @@ body {
 }
 
 #root {
-  width: 100%;
-  max-width: 420px;
+  width: 600px;
+  background-color: #606060;
+  border-radius: 25px;
 }
 
 .container {
